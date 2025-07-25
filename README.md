@@ -5,7 +5,7 @@
 
 📄 **Read the Document**: [Business Plan.pdf (1iere version)](./pdf/Business%20Plan.pdf)
 
-📄 **Read the Document**: [Business Plan.pdf (2iere version)](./pdf/Business%20Plan%20CC.pdf)
+📄 **Read the Document**: [Business Plan.pdf (2iere version)](./pdf/Business%20Plan%20revu%20CC.pdf)
 
 
 <!-- Project Overview: Clear heading establishes context -->
