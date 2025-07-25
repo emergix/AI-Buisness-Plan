@@ -3,6 +3,9 @@
 <!-- Banner placeholder - Recommend using AI/finance themed image -->
 ![AI Finance Banner](https://via.placeholder.com/800x400.png?text=AI+Financial+Markets+Technology)
 
+📄 **Read the Document**: [Business Plan.pdf (Francais)](./pdf/Business%20Plan.pdf)
+
+
 <!-- Project Overview: Clear heading establishes context -->
 Strategic business plan for an AI-driven financial technology company, developed during the pivotal early years of deep learning adoption in finance (circa 2010s).
 
