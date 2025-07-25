@@ -3,7 +3,9 @@
 <!-- Banner placeholder - Recommend using AI/finance themed image -->
 ![AI Finance Banner](https://via.placeholder.com/800x400.png?text=AI+Financial+Markets+Technology)
 
-📄 **Read the Document**: [Business Plan.pdf (Francais)](./pdf/Business%20Plan.pdf)
+📄 **Read the Document**: [Business Plan.pdf (1iere version)](./pdf/Business%20Plan.pdf)
+
+📄 **Read the Document**: [Business Plan.pdf (2iere version)](./pdf/Business%20Plan%20CC.pdf)
 
 
 <!-- Project Overview: Clear heading establishes context -->
